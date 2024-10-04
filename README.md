@@ -102,6 +102,3 @@ const listener = app.listen(process.env.PORT || 3000, () => {
   console.log('Your app is listening on port ' + listener.address().port);
 });
 ```
-``` 
-
-Este archivo Markdown explica los conceptos clave del código, desde la configuración inicial, los esquemas de la base de datos, hasta las rutas y su funcionamiento.
